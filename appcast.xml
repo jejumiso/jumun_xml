@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Hanoi</title>
+        <!-- Android -->
         <item>
-            <title>Version 1.15.0</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="1.15.0" sparkle:os="android" />
+            <title>v4.0.0</title>
+            <description>업데이트가 되었습니다!</description>
+            <pubDate>Fri, 21 Oct 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
-    </channel>
+        <item>
+            <title>v4.0.0</title>
+            <description>업데이트가 되었습니다!</description>
+            <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:version="1.0.3" sparkle:os="android" />	
+        </item>	
+
+    </channel>	
 </rss>
