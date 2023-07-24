@@ -26,6 +26,7 @@
             <description>업데이트가 되었습니다!</description>
             <pubDate>Fri, 21 Jul 2023 12:00:00 +0000</pubDate>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            <sparkle:bestCriticalItem></sparkle:bestCriticalItem>
             <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="13.0.0" sparkle:os="android" />
         </item>
 
