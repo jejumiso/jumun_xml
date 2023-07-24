@@ -5,7 +5,7 @@
         <!-- Android -->
         <item>
             <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-            <link>https://myproductwebsite.com</link>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="1.0.0" sparkle:os="android" />
             <sparkle:version>2.0</sparkle:version>
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
         </item>        
