@@ -10,19 +10,19 @@
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
         </item>        
         <item>
-            <title>v4.0.0</title>
+            <title>v1.0.0</title>
             <description>업데이트가 되었습니다!</description>
             <pubDate>Fri, 11 Oct 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="1.0.0" sparkle:os="android" />
         </item>        
         <item>
-            <title>v4.0.0</title>
+            <title>v12.0.0</title>
             <description>업데이트가 되었습니다!</description>
             <pubDate>Fri, 19 Oct 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="12.0.0" sparkle:os="android" />
         </item>
         <item>
-            <title>v4.0.0</title>
+            <title>v13.0.0</title>
             <description>업데이트가 되었습니다!</description>
             <pubDate>Fri, 21 Oct 2022 12:00:00 +0000</pubDate>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
