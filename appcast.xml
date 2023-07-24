@@ -19,7 +19,8 @@
             <title>v13.0.0</title>
             <description>업데이트가 되었습니다!</description>
             <pubDate>Fri, 21 Jul 2023 12:00:00 +0000</pubDate>
-            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            
+            <sparkle:criticalUpdate sparkle:version="13.0.0"></sparkle:criticalUpdate>
             <sparkle:bestCriticalItem></sparkle:bestCriticalItem>
             <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
             <sparkle:version>13.0.0</sparkle:version>
