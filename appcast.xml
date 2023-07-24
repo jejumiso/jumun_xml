@@ -2,13 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Hanoi</title>
-        <!-- Android -->
-        <item>
-            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="12.0.0" sparkle:os="android" />
-            <sparkle:version>2.0</sparkle:version>
-            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
-        </item>        
+        <!-- Android -->       
         <item>
             <title>v1.0.0</title>
             <description>업데이트가 되었습니다!</description>
@@ -27,6 +21,7 @@
             <pubDate>Fri, 21 Jul 2023 12:00:00 +0000</pubDate>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             <sparkle:bestCriticalItem></sparkle:bestCriticalItem>
+            <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
             <enclosure url="https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon" sparkle:version="13.0.0" sparkle:os="android" />
         </item>
 
