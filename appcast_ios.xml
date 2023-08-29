@@ -6,7 +6,7 @@
             <title>Version 1.5</title>
             <description>desc</description>
             <pubDate>Tue, 25 Jul 2023 12:01:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/%EB%82%A8%EC%9B%90%EB%B4%84%EB%B4%84%EC%A3%BC%EB%AC%B8%EC%95%B1/id6461210852" sparkle:version="1.5" />
+            <enclosure url="https://apps.apple.com/us/app/%EB%82%A8%EC%9B%90%EB%B4%84%EB%B4%84%EC%A3%BC%EB%AC%B8%EC%95%B1/id6461210852" sparkle:version="1.5" parkle:os="iOS" />
         </item>
     </channel>
 </rss>
