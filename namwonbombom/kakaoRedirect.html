@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>카카오톡 공유하기 리다이렉트</title>
+</head>
+<script>
+
+let query = window.location.search;
+let param = new URLSearchParams(query);
+let id = param.get('id');
+if(id == 'ios'){
+  window.location.replace("https://apps.apple.com/kr/app/%EB%82%A8%EC%9B%90%EB%B4%84%EB%B4%84%EC%A3%BC%EB%AC%B8%EC%95%B1/id6461210852");
+}else{
+  window.location.replace("https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon");
+}
+
+
+console.log(id);        // 1
+
+</script>
+<body>
+    
+</body>
+</html>
