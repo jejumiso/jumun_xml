@@ -9,13 +9,27 @@
 
 let query = window.location.search;
 let param = new URLSearchParams(query);
-let id = param.get('id');
-if(id == 'ios'){
+if(checkMobile() == 'ios'){
   window.location.replace("https://apps.apple.com/kr/app/%EB%82%A8%EC%9B%90%EB%B4%84%EB%B4%84%EC%A3%BC%EB%AC%B8%EC%95%B1/id6461210852");
 }else{
   window.location.replace("https://play.google.com/store/apps/details?id=com.hjyproject.jemun_namwon");
 }
 
+function checkMobile(){
+     var varUA = navigator.userAgent.toLowerCase(); //userAgent 값 얻기
+     if ( varUA.indexOf('android') > -1) {
+        //안드로이드
+        return "android";
+    } else if ( varUA.indexOf("iphone") > -1||varUA.indexOf("ipad") > -1||varUA.indexOf("ipod") > -1 ) {
+        //IOS
+        return "ios";
+    } else {
+        //아이폰, 안드로이드 외
+        return "other";
+    }   
+}
+
+    
 
 
 </script>
